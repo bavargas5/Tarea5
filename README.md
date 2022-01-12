@@ -1,1 +1,42 @@
 # Tarea5
+
+## OBJETIVOS
+
+General
+
+
+
+Específicos:
+
+
+
+## MARCO TEÓRICO (RESUMEN)
+
+**CAPITULO 9**
+
+
+
+**CAPITULO 10**
+
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+**CAPITULO 9**
+
+
+
+**CAPITULO 10**
+
+
+
+## VIDEO
+
+
+
+## CONCLUSIONES
+
+
+
+## BIBLIOGRAFÍA
+
+
