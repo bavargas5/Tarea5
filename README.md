@@ -299,6 +299,38 @@ Disminuye, debido a que el área es inversamente proporcional a la densidad del 
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBV/13.png)
 
+**9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?**
+
+**11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?**
+
+Durante la activación del imán, al dar paso de corriente entre los terminales de la bobina, genera un flujo a través del número de vueltas en los que circula la corriente por la bobina, denominado Fuerza magnetomotriz, generando un campo magnético, el cual magnetiza el Núcleo de hierro conjunto al embolo y el núcleo estacionario, que al magnetizarse se transforman en imanes cuyos polos opuestos permiten el movimiento del embolo hacia el núcleo de estacionario, dicha fuerza atrayente, es fuerza característica de los imanes cuando se juntan los polos opuestos, llamado Fuerza de Atracción. 
+
+**(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?**
+
+El Núcleo estacionario y Núcleo deslizante(embolo), están conectados a través de un resorte el cual se comprime únicamente por la Fuerza de atracción de los Núcleos durante la energización del solenoide; caso contrario es la misma Fuerza del Resorte la causante de devolver los Núcleos a su ubicación original.
+
+**13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?**
+
+La corriente que circula a través de la bobina genera un campo electromagnético en sentido contrario a las manecillas del reloj entre el ensamble de bobina giratorio permitiéndole un movimiento inverso al campo magnético produciéndole un movimiento en sentido de las manecillas del reloj, lo cual permite el movimiento de la aguja instalada, montada en el ensamble de bobina giratorio.
+
+**15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?**
+
+Se puede aumentar el número de vueltas o la intensidad de corriente que pasa a trabes de la bobina, puesto que tiende a afectar a la intensidad de campo magnético, que está a directamente relacionado con la desigualdad de flujo magnético, puesto que si la densidad de flujo, B=0, en presencia de una intensidad de campo magnético (H) que adquiere un valor, empieza a nivelarse con la intensidad de campo magnético (H), hasta alcnzr un cierto valor de saturación 
+
+**17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.**
+
+Sería el Material A quien posea mayor retentividad debido a que el valor de densidad de flujo residual BR posee un valor mucha mas cercano a su valor de saturación Bsat; dichos materiales que posean mayor proximidad en dichos valores poseen una mayor retentividad, puesto que el Material A cumplen según la curva con los valores con dicha cercanidad, por lo tanto, el Material A es el mas retentivo. 
+
+**19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?**
+
+- La densidad de flujo B
+- La longitud del conductor l, expuesto al campo magnético.
+- La velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro.
+
+**21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?**
+
+La Ley de Faraday muestra sus estudios a través de la inducción del voltaje, demostrando que a mayor número de vueltas tiene una bobina por la que pasa un imán mayor será el numero de voltaje inducido que este posea, siendo el mismo caso con menos vueltas en la bobina, pero pasando a movimiento constante entre la bobina que, a cierta velocidad, mientras mayor sea u velocidad, mayor será el voltaje inducido. En este caso la Ley de Lenz complementa a la de Faraday aplicando una última consecuencia a la producción del voltaje inducido, que explica que, a consecuencia de una intensidad de corriente cambiante, se producirá un voltaje inducido debido al campo magnético cambiante.
+
 ## VIDEO
 
 
