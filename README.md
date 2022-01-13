@@ -301,6 +301,18 @@ Disminuye, debido a que el área es inversamente proporcional a la densidad del 
 
 **9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?**
 
+Primero anotamos las variables que nos proporciona el ejercicio:
+
+![](https://github.com/bavargas5/Tarea5/blob/main/IMG%20M/R_9_1.JPG)
+
+Anotamos la fórmula de Fuerza Magnetomotriz:
+
+![](https://github.com/bavargas5/Tarea5/blob/main/IMG%20M/R_9_2.JPG)
+
+Reemplazamos los valores en la ecuación 
+
+![](https://github.com/bavargas5/Tarea5/blob/main/IMG%20M/R_9_3.JPG)
+
 **11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?**
 
 Durante la activación del imán, al dar paso de corriente entre los terminales de la bobina, genera un flujo a través del número de vueltas en los que circula la corriente por la bobina, denominado Fuerza magnetomotriz, generando un campo magnético, el cual magnetiza el Núcleo de hierro conjunto al embolo y el núcleo estacionario, que al magnetizarse se transforman en imanes cuyos polos opuestos permiten el movimiento del embolo hacia el núcleo de estacionario, dicha fuerza atrayente, es fuerza característica de los imanes cuando se juntan los polos opuestos, llamado Fuerza de Atracción. 
@@ -315,9 +327,13 @@ La corriente que circula a través de la bobina genera un campo electromagnétic
 
 **15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?**
 
+![](https://github.com/bavargas5/Tarea5/blob/main/IMG%20M/P_15.JPG)
+
 Se puede aumentar el número de vueltas o la intensidad de corriente que pasa a trabes de la bobina, puesto que tiende a afectar a la intensidad de campo magnético, que está a directamente relacionado con la desigualdad de flujo magnético, puesto que si la densidad de flujo, B=0, en presencia de una intensidad de campo magnético (H) que adquiere un valor, empieza a nivelarse con la intensidad de campo magnético (H), hasta alcnzr un cierto valor de saturación 
 
 **17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.**
+
+![](https://github.com/bavargas5/Tarea5/blob/main/IMG%20M/P_17.JPG)
 
 Sería el Material A quien posea mayor retentividad debido a que el valor de densidad de flujo residual BR posee un valor mucha mas cercano a su valor de saturación Bsat; dichos materiales que posean mayor proximidad en dichos valores poseen una mayor retentividad, puesto que el Material A cumplen según la curva con los valores con dicha cercanidad, por lo tanto, el Material A es el mas retentivo. 
 
