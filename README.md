@@ -9,7 +9,11 @@ Aplicar alguno de los métodos aprendidos para determinar la cantidad que tiene 
 Específicos:
 
 -Emplear de manera correcta los 3 métodos para resolver ecuaciones
+
+
 -Utilizar el método del corriente en ramas y el análisis de nodos para calcular algunos elementos
+
+
 -Entender los principios del magnetismo y electromagnetismo
 
 
