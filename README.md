@@ -87,6 +87,7 @@ Este determinante de tercer grado se evalúa aplicando el método del triángulo
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/4.PNG)
 
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/4.1.PNG)
 
 A continuación, se forma otro determinante sustituyendo los coeficientes de I1 por las constantes
@@ -110,6 +111,7 @@ Para I3
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/4.5.PNG)
 
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/4.6.PNG)
 
 
@@ -119,11 +121,14 @@ Para I3
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/5.PNG)
 
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/5.1.PNG)
+
 
 Entonces las intensidades calculadas son
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/5.2.PNG)
+
 
 Comparando con los otros calculos kas respuestas coinciden
 
@@ -132,14 +137,18 @@ Comparando con los otros calculos kas respuestas coinciden
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/6.PNG)
 
+
 La ley de la corriente de Kirchhoff dice que la suma de todas las corrientes que fluyen hacia un nodo es igual a la suma de las corrientes que salen del nodo.
 
 En este caso I1 es la corriente que entra en el punto A por lo cual nos quedaría:
 
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/6.1.PNG)
 
 
+
 **13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique **la polaridad real.**
+
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/7.PNG)
 
@@ -149,13 +158,16 @@ Como lo vimos en el anterior caso, usaremos la ley de la corriente de Kirchhoff
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/7.1.PNG)
 
 
+
 En el nodo A, la ecuación de corriente es
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/7.2.PNG)
 
+
 Las ecuaciones se resuelven por sustitución como sigue. En primer lugar, encuentre I1 en función de I2 e I3.
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/7.3.PNG)
+
 
 
 
@@ -176,6 +188,7 @@ Usando la ley de ohm
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/7.6.PNG)
 
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/7.7.PNG)
 
 
@@ -184,10 +197,12 @@ Usando la ley de ohm
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/9.PNG)
 
+
 Dibujando la trayectoria de la corriente
 
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/9.1.PNG)
+
 
 
 Vamos a realizar un análisis por mallas por lo cual
@@ -201,14 +216,19 @@ Para I2
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/9.3.PNG)
 
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/9.4.PNG)
+
 
 Resolveremos las ecuaciones por medio de una calculadora
 
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/9.5.PNG)
 
+
 Entonces ya obteniendo los valores, estos datos son las intensidades de las 2 mallas
+
+
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBN/9.6.PNG)
 
 **19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.**
@@ -235,6 +255,7 @@ En este caso solo buscaríamos los voltajes
 
 
 **21. Resuelva para las corrientes de lazo en la figura con su calculadora.**
+
 
 ![](https://github.com/bavargas5/Tarea5/blob/main/IMGBV/2.png)
 
@@ -295,5 +316,14 @@ Disminuye, debido a que el área es inversamente proporcional a la densidad del 
 
 
 ## BIBLIOGRAFÍA
+
+
+-Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+
+
+-Khan Academy. (s. f.). La terminología de los circuitos (artículo). https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/a/ee-circuit-terminology
+
+
+
 
 
