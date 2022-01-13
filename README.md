@@ -25,6 +25,7 @@ Específicos:
 
 **CAPITULO 10**
 
+![](https://github.com/bavargas5/Tarea5/blob/main/IMG%20M/Electromagnetismo.png)
 
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
