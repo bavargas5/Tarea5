@@ -3,11 +3,14 @@
 ## OBJETIVOS
 
 General
-
-
+ 
+Aplicar alguno de los métodos aprendidos para determinar la cantidad que tiene los elementos del circuito 
 
 Específicos:
 
+-Emplear de manera correcta los 3 métodos para resolver ecuaciones
+-Utilizar el método del corriente en ramas y el análisis de nodos para calcular algunos elementos
+-Entender los principios del magnetismo y electromagnetismo
 
 
 ## MARCO TEÓRICO (RESUMEN)
@@ -73,6 +76,14 @@ Disminuye, debido a que el área es inversamente proporcional a la densidad del 
 
 ## CONCLUSIONES
 
+
+-Estos métodos los de sustituciones algebraicas y método del determinante nos facilitan y acortan el proceso de resolver ecuaciones en algunos casos complejas y de varias variables por lo cual su uso es indispensable para resolver circuitos 
+
+
+-Al utilizar el método de corriente en ramas determinamos los valores de las componentes desconocidas al igual que el análisis de nodos 
+
+
+-Si tenemos polos magnéticos iguales estos se repelen y si son diferentes se atraen, podemos usar la regla de la mano derecha para indicar la dirección de las fuerzas electromagnéticas que están en un conductor  
 
 
 ## BIBLIOGRAFÍA
