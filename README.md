@@ -350,7 +350,7 @@ La Ley de Faraday muestra sus estudios a través de la inducción del voltaje, d
 
 ## VIDEO
 
-
+https://youtu.be/u85O2hCs0SA
 
 ## CONCLUSIONES
 
